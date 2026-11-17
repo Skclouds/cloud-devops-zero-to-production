@@ -1,0 +1,4 @@
+application:
+  name: permission-lab
+  environment: production
+  port: 8080
