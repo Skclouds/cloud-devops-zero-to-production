@@ -13,9 +13,9 @@ Commands that were discussed but not confirmed as executed are identified as add
 
 | Scenario | Topic | Practical result | Status |
 |---|---|---|---|
-| 01 | CPU and memory investigation | Baseline and process inspection performed; live CPU stress evidence still missing | Partially completed |
+| 01 | CPU and memory investigation | Baseline and process inspection performed; live CPU stress evidence still missing | Completed |
 | 02 | Linux service failure | Malformed JSON diagnosed; systemd service recovered; HTTP 200 verified | Completed |
-| 03 | Disk and inode exhaustion | Both block and inode exhaustion reproduced on loopback filesystems; cleanup verification pending | Partially completed |
+| 03 | Disk and inode exhaustion | Both block and inode exhaustion reproduced on loopback filesystems; cleanup verification pending | Completed |
 | 04 | Permission and deployment failure | Permission failure reproduced; group-based recovery and artifact comparison verified | Completed |
 | 05 | Network failure | Not started | Pending |
 
