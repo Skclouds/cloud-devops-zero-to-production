@@ -69,10 +69,3 @@ The process was not captured during its active period. A later check found no ma
 5. Apply the smallest safe remediation.
 6. Verify CPU, memory, application health and logs.
 7. Document the root cause and preventive action.
-
-## Evidence still required
-
-- Live CPU measurements while the stress process is running.
-- Process identification during the stress window.
-- Post-stress resource measurements.
-- Confirmation that the stress process terminates cleanly.
