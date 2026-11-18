@@ -719,26 +719,7 @@ Ctrl + C
 
 ---
 
-# 16. Assessment Record
-
-| Assessment Category | Maximum Marks | Result |
-|---|---:|---|
-| Linux fundamentals | 10 | Pending |
-| Filesystem management | 15 | Pending |
-| Users and permissions | 15 | Pending |
-| Processes and services | 20 | Pending |
-| Monitoring and logs | 15 | Pending |
-| Networking | 10 | Pending |
-| Incident troubleshooting | 15 | Pending |
-| **Total** | **100** | **Pending** |
-
-Passing score: 75/100.
-
-The assessment result will be updated only after completing the independent practical examination.
-
----
-
-# 17. Learning Outcome
+# 16. Learning Outcome
 
 Week 1 establishes the Linux administration foundation required for subsequent Cloud, DevOps and MLOps modules.
 
