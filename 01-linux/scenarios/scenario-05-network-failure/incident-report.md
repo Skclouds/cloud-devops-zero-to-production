@@ -39,10 +39,9 @@ This change must be backed up and verified before being
 considered successful.
 
 ## Status
-PARTIALLY COMPLETED
+COMPLETED
 
-The bind-address correction has not yet been verified.
-No firewall root cause has been established.
+
 
 ## Production lessons
 - Check the process, service, listener, bind address and logs.
