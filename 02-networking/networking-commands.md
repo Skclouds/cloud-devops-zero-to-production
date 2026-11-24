@@ -390,18 +390,4 @@ These commands are useful when investigating:
 
 The objective is not simply to memorize commands. It is to understand **what layer or component each command helps investigate** and how to use the output to identify the root cause.
 
----
 
-## 11. Practice Checklist
-
-- [ ] Identify network interfaces and IP addresses
-- [ ] Inspect IPv4 and IPv6 configuration
-- [ ] Read the routing table
-- [ ] Identify the default gateway
-- [ ] Inspect the neighbor table
-- [ ] Check listening TCP and UDP ports
-- [ ] Test IP connectivity
-- [ ] Verify DNS resolution
-- [ ] Inspect HTTP response headers
-- [ ] Trace the route toward a destination
-- [ ] Follow the troubleshooting sequence for a simulated failure
